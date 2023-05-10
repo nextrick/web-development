@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "web-development"
+  site-url: "https://nextrick.github.io/web-development"
+  description: "This is Nextrick full stack web development course"
+  repo-branch: main
+  repo-url: "https://github.com/nextrick/web-development"
